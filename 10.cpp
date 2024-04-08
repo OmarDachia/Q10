@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-  cout << "#9:-> Write a program to swap 2 no’s without using a third variable."<<endl;
+  cout << "#10:-> Write a program to swap 2 no’s without using a third variable."<<endl;
   cout << "\n=============================================================";
   cout << "\nProgram Start here:->" << endl;
   cout << "\n+++++++++++++++++++++"<<endl;
